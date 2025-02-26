@@ -2,148 +2,96 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Beritamedan - Berita, informasi, dan update terkini dari seluruh dunia">
-    <meta name="keywords" content="Beritamedan, berita, info terkini, update, liputan">
-    <meta name="author" content="Beritamedan Berbagi 2025">
-    <title>Beritamedan</title>
+    <meta name="description" content="Beritamedan - Sumber informasi terpercaya seputar kota Medan dan sekitarnya.">
+    <meta name="keywords" content="Beritamedan, Berita Medan, Informasi Medan, Kota Medan">
+    <meta name="author" content="Beritamedan">
+    <title>Beritamedan - Portal Berita Terkini seputar Medan</title>
     <style>
         body {
-            font-family: 'Arial', sans-serif;
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
             margin: 0;
             padding: 0;
-            background-color: #e3e3e3;
+            background-color: #f4f4f4;
+            color: #333;
         }
         header {
-            background-color: #1bb20c;
-            color: white;
-            padding: 20px 0;
+            background-color: #333;
+            color: #fff;
+            padding: 10px 0;
             text-align: center;
         }
         header h1 {
             margin: 0;
-            font-size: 36px;
-        }
-        header p {
-            font-size: 18px;
-            margin: 5px 0;
         }
         nav {
-            background-color: #333;
+            background-color: #444;
+            padding: 10px;
             text-align: center;
-            padding: 15px 0;
         }
-        nav ul {
-            list-style: none;
-            margin: 0;
-            padding: 0;
-        }
-        nav ul li {
-            display: inline;
-            margin: 0 20px;
-        }
-        nav ul li a {
-            color: white;
-            font-size: 18px;
+        nav a {
+            color: #fff;
             text-decoration: none;
+            margin: 0 15px;
         }
-        nav ul li a:hover {
-            color: #1bb20c;
-        }
-        main {
-            padding: 30px;
-        }
-        section {
-            background-color: white;
-            margin-bottom: 20px;
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            background-color: #fff;
             padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
-        h2 {
-            color: #1bb20c;
-            font-size: 28px;
-            margin-bottom: 15px;
+        .article-content {
+            margin-top: 20px;
         }
-        article {
-            margin-bottom: 20px;
-        }
-        article h3 {
+        .article-content h2 {
             color: #333;
-            font-size: 24px;
         }
-        article p {
-            font-size: 16px;
-            line-height: 1.6;
-            color: #555;
+        .article-content p {
+            text-align: justify;
         }
         footer {
             background-color: #333;
-            color: white;
+            color: #fff;
             text-align: center;
             padding: 10px 0;
-            position: fixed;
-            width: 100%;
-            bottom: 0;
+            margin-top: 20px;
         }
     </style>
 </head>
 <body>
-    <!-- Header -->
     <header>
         <h1>Beritamedan</h1>
-        <p>Berita, Informasi, dan Update Terkini dari Beritamedan Seluruh Dunia</p>
+        <p>Portal Berita Terkini seputar Medan</p>
     </header>
-
-    <!-- Navigation -->
     <nav>
-        <ul>
-            <li><a href="#home">Beranda</a></li>
-            <li><a href="#news">Berita</a></li>
-            <li><a href="#trending">Tren</a></li>
-            <li><a href="#contact">Kontak</a></li>
-        </ul>
+        <a href="#berita-terkini">Berita Terkini</a>
+        <a href="#olahraga">Olahraga</a>
+        <a href="#wisata">Wisata</a>
+        <a href="#ekonomi">Ekonomi</a>
     </nav>
+    <div class="container">
+        <div class="article-content">
+            <h2 id="berita-terkini">Berita Terkini di Medan</h2>
+            <p>Medan, kota terbesar ketiga di Indonesia, terus berkembang dengan pesat. Beritamedan hadir untuk memberikan informasi terkini seputar perkembangan kota Medan. Mulai dari berita politik, sosial, hingga budaya, semua dapat Anda temukan di sini.</p>
+            <p>Baru-baru ini, pemerintah kota Medan mengumumkan rencana pembangunan infrastruktur baru yang bertujuan untuk meningkatkan konektivitas antar wilayah. Proyek ini diharapkan dapat mengurangi kemacetan dan meningkatkan pertumbuhan ekonomi di daerah tersebut.</p>
+            <p>Selain itu, Beritamedan juga melaporkan tentang acara-acara budaya yang sedang berlangsung di Medan. Salah satunya adalah Festival Kuliner Medan yang diadakan setiap tahun. Festival ini tidak hanya menarik wisatawan lokal tetapi juga mancanegara.</p>
 
-    <!-- Main Content -->
-    <main>
-        <!-- Section Berita -->
-        <section id="news">
-            <h2>Beritamedan Terbaru</h2>
-            <article>
-                <h3>Beritamedan Rayakan Beritamedan dengan Program Berbagi untuk Pemain</h3>
-                <p>Pada perayaan Beritamedan tahun ini, Beritamedan, salah satu platform game kasino online terkemuka di Indonesia, meluncurkan program "Beritamedan Berbagi". Program ini bertujuan untuk memberikan hadiah spesial kepada para pemain setia melalui bonus deposit, free spins, dan hadiah menarik lainnya. Selain itu, Beritamedan juga menyumbangkan sebagian pendapatannya untuk kegiatan sosial, mendukung komunitas lokal yang membutuhkan selama musim perayaan. </p>
-                <p>Langkah ini diharapkan dapat memperkuat hubungan antara Beritamedan dan para pemain, serta menciptakan suasana bahagia dan penuh keberuntungan di tahun baru Beritamedan ini.</p>
-            </article>
-            <article>
-                <h3>Beritamedan Berbagi 2025 Beritamedan Gemilang dengan Teknologi Virtual di Seluruh Indonesia</h3>
-                <p>Sebagai bagian dari program ini, Beritamedan meluncurkan game terbaru mereka, Mahjong Ways. Game ini menggabungkan elemen tradisional mahjong dengan mekanisme slot modern, dilengkapi dengan simbol bertema Beritamedan dan fitur bonus seperti free spins serta jackpot progresif khusus Beritamedan. Mahjong Ways menawarkan pengalaman bermain yang unik dan penuh keberuntungan, menjadikannya favorit di kalangan pemain. Dengan kombinasi program berbagi dan inovasi game, Beritamedan menciptakan suasana Beritamedan yang menghibur dan bermakna bagi seluruh komunitas pemain di Indonesia.</p>
-                <p>Selain itu, aplikasi mobile khusus Beritamedan Berbagi menyediakan peta lokasi event, jadwal acara, dan fitur berbagi momen secara real-time di media sosial. Inisiatif ini sukses menarik minat generasi muda dan meningkatkan partisipasi masyarakat di tengah situasi yang tetap mengutamakan protokol kesehatan. Kesuksesan Beritamedan Berbagi 2025 menunjukkan adaptasi budaya tradisional dengan kemajuan teknologi modern.</p>
-            </article>
-        </section>
+            <h2 id="olahraga">Olahraga di Medan</h2>
+            <p>Medan juga dikenal dengan semangat olahraganya yang tinggi. Beritamedan memberikan liputan lengkap seputar kegiatan olahraga di kota ini. Mulai dari sepak bola, bulu tangkis, hingga lari maraton, semua dapat Anda ikuti perkembangannya di sini.</p>
+            <p>Tim sepak bola lokal, PSMS Medan, baru-baru ini meraih kemenangan penting dalam liga nasional. Kemenangan ini membawa semangat baru bagi para pendukung setia tim tersebut. Beritamedan akan terus memberikan update seputar perkembangan tim ini di liga nasional.</p>
 
-        <!-- Section Tren -->
-        <section id="trending">
-            <h2>Tren Terbaru</h2>
-            <article>
-                <h3>Pertumbuhan Pesat Game Kasino Online di Indonesia Tahun 2025</h3>
-                <p>Tahun 2025 menyaksikan lonjakan signifikan dalam industri game kasino online di Indonesia, didorong oleh peningkatan akses internet dan penggunaan smartphone. Beritamedan, salah satu platform terkemuka, memimpin pasar dengan menawarkan berbagai game inovatif. Salah satu unggulannya adalah Mahjong Ways, yang menggabungkan elemen tradisional mahjong dengan mekanisme slot modern. Game ini menarik banyak pemain berkat desain bertema Beritamedan, free spins, dan jackpot progresif.</p>
-            </article>
-            <article>
-                <h3>Perkembangan Game kasino Mobile yang Meningkatkan Industri Esports</h3>
-                <p>Selain itu, program "Beritamedan Berbagi" Beritamedan meningkatkan loyalitas pemain dengan memberikan bonus dan mendukung kegiatan sosial. Inovasi teknologi dan regulasi yang mendukung juga memperkuat kepercayaan masyarakat. Dengan strategi ini, Beritamedan dan industri kasino online di Indonesia diprediksi akan terus berkembang pesat di masa depan.</p>
-            </article>
-        </section>
+            <h2 id="wisata">Wisata di Medan</h2>
+            <p>Medan memiliki banyak tempat wisata yang menarik untuk dikunjungi. Beritamedan memberikan rekomendasi tempat-tempat wisata terbaik di kota ini. Salah satunya adalah Istana Maimun, bangunan bersejarah yang menjadi ikon kota Medan.</p>
+            <p>Selain itu, Medan juga terkenal dengan kuliner khasnya. Beritamedan menyediakan informasi lengkap seputar tempat makan terbaik di Medan. Jangan lewatkan untuk mencoba Bika Ambon, salah satu makanan khas Medan yang terkenal.</p>
 
-        <!-- Section Kontak -->
-        <section id="contact">
-            <h2>Kontak Kami</h2>
-            <p>Jika Anda memiliki pertanyaan atau ingin mengirimkan informasi berita, jangan ragu untuk menghubungi kami melalui email di <a href="mailto:contact@berita-parental-health.com">contact@berita-parental-health.com</a>.</p>
-        </section>
-    </main>
-
-    <!-- Footer -->
+            <h2 id="ekonomi">Ekonomi Medan</h2>
+            <p>Pertumbuhan ekonomi Medan terus menunjukkan tren positif. Beritamedan memberikan analisis mendalam seputar perkembangan ekonomi di kota ini. Sektor perdagangan dan industri menjadi penyumbang terbesar dalam pertumbuhan ekonomi Medan.</p>
+            <p>Baru-baru ini, pemerintah kota Medan juga mengumumkan insentif baru bagi para investor yang ingin menanamkan modalnya di kota ini. Langkah ini diharapkan dapat menarik lebih banyak investor dan menciptakan lapangan kerja baru bagi masyarakat Medan.</p>
+        </div>
+    </div>
     <footer>
-        <p>&copy; 2025-Beritamedan. Semua Hak Cipta Dilindungi.</p>
+        <p>&copy; 2025 Beritamedan. All rights reserved.</p>
     </footer>
 </body>
 </html>
