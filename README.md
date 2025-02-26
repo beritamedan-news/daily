@@ -1,4 +1,3 @@
-# daily
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
@@ -149,7 +148,7 @@
     <main>
         <!-- Section Berita -->
         <section id="news">
-            <h2>Berita Beritamedan Terbaru</h2>
+            <h2>Beritamedan Terbaru</h2>
             <article>
                 <h3>Beritamedan Rayakan dengan Program Berbagi untuk Pemain</h3>
                 <p>Pada perayaan Beritamedan tahun ini, Beritamedan, salah satu platform game kasino online terkemuka di Indonesia, meluncurkan program "Beritamedan Berbagi". Program ini bertujuan untuk memberikan hadiah spesial kepada para pemain setia melalui bonus deposit, free spins, dan hadiah menarik lainnya. Selain itu, Beritamedan juga menyumbangkan sebagian pendapatannya untuk kegiatan sosial, mendukung komunitas lokal yang membutuhkan selama musim perayaan. </p>
@@ -184,7 +183,7 @@
 
     <!-- Footer -->
     <footer>
-        <p>&copy; 2025 Berita-Beritamedan. Semua Hak Cipta Dilindungi.</p>
+        <p>&copy; 2025 Beritamedan. Semua Hak Cipta Dilindungi.</p>
     </footer>
 </body>
 </html>
