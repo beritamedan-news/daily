@@ -1,50 +1,10 @@
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-<!-- Begin Jekyll SEO tag v2.8.0 -->
-
-<meta name="generator" content="Jekyll v3.10.0" />
-<meta property="og:title" content="daily" />
-<meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://beritamedan-news.github.io/daily/" />
-<meta property="og:url" content="https://beritamedan-news.github.io/daily/" />
-<meta property="og:site_name" content="daily" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="daily" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"daily","name":"daily","url":"https://beritamedan-news.github.io/daily/"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <link rel="stylesheet" href="/daily/assets/css/style.css?v=cbf521eb5e4332b23ffa6675782932c09ae84b26">
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
-
-<!-- Setup Google Analytics -->
-
-
-
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/daily/favicon.ico" -->
-
-<!-- end custom head snippets -->
-
-  </head>
-  <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      
-
-      <h1 id="daily">daily</h1>
-
 <html lang="id">
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="Beritamedan - Berita, informasi, dan update terkini dari seluruh dunia" />
-    <meta name="keywords" content="Beritamedan, berita, info terkini, update, liputan" />
-    <meta name="author" content="Beritamedan Berbagi 2025" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Beritamedan - Berita, informasi, dan update terkini dari seluruh dunia">
+    <meta name="keywords" content="Beritamedan, berita, info terkini, update, liputan">
+    <meta name="author" content="Beritamedan Berbagi 2025">
     <title>Beritamedan</title>
     <style>
         body {
@@ -150,12 +110,12 @@
         <section id="news">
             <h2>Beritamedan Terbaru</h2>
             <article>
-                <h3>Beritamedan Rayakan dengan Program Berbagi untuk Pemain</h3>
+                <h3>Beritamedan Rayakan Beritamedan dengan Program Berbagi untuk Pemain</h3>
                 <p>Pada perayaan Beritamedan tahun ini, Beritamedan, salah satu platform game kasino online terkemuka di Indonesia, meluncurkan program "Beritamedan Berbagi". Program ini bertujuan untuk memberikan hadiah spesial kepada para pemain setia melalui bonus deposit, free spins, dan hadiah menarik lainnya. Selain itu, Beritamedan juga menyumbangkan sebagian pendapatannya untuk kegiatan sosial, mendukung komunitas lokal yang membutuhkan selama musim perayaan. </p>
                 <p>Langkah ini diharapkan dapat memperkuat hubungan antara Beritamedan dan para pemain, serta menciptakan suasana bahagia dan penuh keberuntungan di tahun baru Beritamedan ini.</p>
             </article>
             <article>
-                <h3>Beritamedan Berbagi 2025 Gemilang dengan Teknologi Virtual di Seluruh Indonesia</h3>
+                <h3>Beritamedan Berbagi 2025 Beritamedan Gemilang dengan Teknologi Virtual di Seluruh Indonesia</h3>
                 <p>Sebagai bagian dari program ini, Beritamedan meluncurkan game terbaru mereka, Mahjong Ways. Game ini menggabungkan elemen tradisional mahjong dengan mekanisme slot modern, dilengkapi dengan simbol bertema Beritamedan dan fitur bonus seperti free spins serta jackpot progresif khusus Beritamedan. Mahjong Ways menawarkan pengalaman bermain yang unik dan penuh keberuntungan, menjadikannya favorit di kalangan pemain. Dengan kombinasi program berbagi dan inovasi game, Beritamedan menciptakan suasana Beritamedan yang menghibur dan bermakna bagi seluruh komunitas pemain di Indonesia.</p>
                 <p>Selain itu, aplikasi mobile khusus Beritamedan Berbagi menyediakan peta lokasi event, jadwal acara, dan fitur berbagi momen secara real-time di media sosial. Inisiatif ini sukses menarik minat generasi muda dan meningkatkan partisipasi masyarakat di tengah situasi yang tetap mengutamakan protokol kesehatan. Kesuksesan Beritamedan Berbagi 2025 menunjukkan adaptasi budaya tradisional dengan kemajuan teknologi modern.</p>
             </article>
@@ -183,15 +143,7 @@
 
     <!-- Footer -->
     <footer>
-        <p>&copy; 2025 Beritamedan. Semua Hak Cipta Dilindungi.</p>
+        <p>&copy; 2025-Beritamedan. Semua Hak Cipta Dilindungi.</p>
     </footer>
 </body>
-</html>
-
-
-      
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
-  </body>
 </html>
